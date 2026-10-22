@@ -35,11 +35,11 @@ and view a reservation confirmation.
 
 ### 1. Clone the repository
 
-Replace `YOUR_USERNAME` with your GitHub username if you are cloning
+Replace `Prince-Kissi` with your GitHub username if you are cloning
 from GitHub.
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/restaurant-booking-application.git
+git clone https://github.com/Prince-Kissi/restaurant-booking-application.git
 cd restaurant-booking-application
 ```
 
